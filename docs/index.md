@@ -1329,6 +1329,18 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
+## LoFTR
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673](http://arxiv.org/abs/2301.07673)|null|
+|**2022-12-30**|**HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**|Dmitry Yudin et.al.|[2212.14649](http://arxiv.org/abs/2212.14649)|**[link](https://github.com/metra4ok/hpointloc)**|
+|**2022-11-27**|**GRelPose: Generalizable End-to-End Relative Camera Pose Regression**|Fadi Khatib et.al.|[2211.14950](http://arxiv.org/abs/2211.14950)|null|
+|**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539](http://arxiv.org/abs/2207.03539)|null|
+|**2022-07-03**|**A case for using rotation invariant features in state of the art feature matchers**|Georg Bökman et.al.|[2204.10144](http://arxiv.org/abs/2204.10144)|**[link](https://github.com/georg-bn/se2-loftr)**|
+|**2022-02-01**|**Local Feature Matching with Transformers for low-end devices**|Kyrylo Kolodiazhnyi et.al.|[2202.00770](http://arxiv.org/abs/2202.00770)|**[link](https://github.com/kolkir/coarse_loftr_trt)**|
+|**2021-04-01**|**LoFTR: Detector-Free Local Feature Matching with Transformers**|Jiaming Sun et.al.|[2104.00680](http://arxiv.org/abs/2104.00680)|**[link](https://github.com/zju3dv/LoFTR)**|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
