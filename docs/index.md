@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3245,7 +3245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-18**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284](http://arxiv.org/abs/2407.13284)|null|
+|**2024-07-31**|**Semantic-aware Representation Learning for Homography Estimation**|Yuhan Liu et.al.|[2407.13284](http://arxiv.org/abs/2407.13284)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-10**|**Comparative Analysis of Advanced Feature Matching Algorithms in Challenging High Spatial Resolution Optical Satellite Stereo Scenarios**|Qiyan Luo et.al.|[2405.06246](http://arxiv.org/abs/2405.06246)|null|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
